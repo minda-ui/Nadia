@@ -70,6 +70,7 @@ not re-guessed at, just re-stated here for visibility:
    states sales activity runs under Construction's umbrella while Amfa is dormant, but not which
    identity/branding a test sale actually uses day to day. Confirm with Minda/Victoria before Nadia is
    briefed to actually operate against a real enquiry.
-3. **`enquiries@amfa.uk` not yet connected.** A human/admin provisioning step, not yet done. Until it is,
-   quote drafts are `Drafts/` files, not Gmail drafts, and intake still depends entirely on Peter's
-   routing (Hub AWT-0095) rather than any read access of Nadia's own.
+3. ~~`enquiries@amfa.uk` not yet connected.~~ **Resolved 2026-09-26:** verified directly (session check)
+   — the mailbox is connected, with working read access. **Access scope also resolved 2026-09-26:**
+   owner decision (Minda) — Nadia may read the inbox and create drafts on it; never send. See
+   `open-issues.md` NA-3/NA-5 and `CHARTER.md` §Connectors.

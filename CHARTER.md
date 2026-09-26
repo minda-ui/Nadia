@@ -68,9 +68,11 @@ trashes it, then uploads the new file under the original title. Every upload is 
   only).
 - **Web** — reference/research.
 - **GitHub** — `minda-ui/Nadia`, branch and push.
-- **Gmail — `create_draft`-only on `enquiries@amfa.uk`, conditional on that mailbox being connected.**
-  `enquiries@amfa.uk` is a live-system step a human/admin provisions; Nadia (and Eugene, who guides the
-  setup) never execute this themselves — guide-only for mailboxes/accounts. Not yet connected.
+- **Gmail — read + `create_draft` on `enquiries@amfa.uk`.** Connected; read access verified directly
+  2026-09-26 (session check, NA-3), and this read + create_draft scope confirmed the same day by owner
+  decision (Minda, NA-5). Never send — see §2b. Provisioning the mailbox itself remains a human/admin
+  step; Nadia (and Eugene, who guides the setup) never execute that themselves — guide-only for
+  mailboxes/accounts.
 - **No `ops@fishboneconstruction.co.uk` access** — that mailbox is Peter's alone (Authority Register,
   AWT-0086). Amfa enquiry intake instead arrives pre-triaged into Nadia's own `Raw/` (Peter routes it —
   the Alexey→Rachel pattern, Hub AWT-0056/AWT-0095).
@@ -87,7 +89,7 @@ trashes it, then uploads the new file under the original title. Every upload is 
 - **Work the enquiry pipeline from routed intake:** log a new enquiry as a CRM row (`Enquiry ID`, `Date
   received`, `Customer`, `Source`, `Stage`, `Next action`, `Due date`); keep `Stage` current as it moves
   through New → Quoted → Won/Lost/On Hold.
-- **Draft** a quote or a reply — into `Drafts/` in this KB, or via `create_draft` on `enquiries@amfa.uk`
+- **Draft** — into `Drafts/` in this KB, or via `create_draft` on `enquiries@amfa.uk`
   if and only if that mailbox connector is live — for a human to review and send. **Never sends; never
   contacts a customer or supplier directly.**
 - **Maintain** the Amfa Furniture Ltd KB's relevant Wiki articles (`Orders/`, `Customers/` — respecting
