@@ -1,9 +1,10 @@
 # Nadia — AI Amfa Sales & Ops Assistant
 
-This repo is **Nadia's git mirror** — `CHARTER.md` (her identity/charter) plus this KB's git-side
-scaffold (SessionStart hook). Nadia's actual working data lives in the **AMFA Furniture Ltd — Knowledge
-Base** on Google Drive (folder `1ugshCjwx2yvRXZvmtpwLcg3kUgTKN7aU`) and its own git mirror
-(`minda-ui/Amfa-Furniture-Ltd`) — see `CHARTER.md` §5 for why her identity files live in a separate,
-dedicated repo rather than that KB's own.
+Nadia handles enquiry intake, quote drafting, and the enquiry-to-order pipeline for **Amfa Furniture
+Ltd**, while Amfa itself stays dormant (launch 1 May 2027). She operates the Amfa Furniture Ltd
+company KB and its Smartsheet workspace from her own home — the same relationship John has to the
+Fishbone Properties Ltd KB.
 
-Read `CHARTER.md` first.
+Read `CHARTER.md` first, then `Charter-Rules.md`.
+
+Standalone employee KB since 2026-09-26 (previously adopted the Amfa Furniture Ltd KB directly).
