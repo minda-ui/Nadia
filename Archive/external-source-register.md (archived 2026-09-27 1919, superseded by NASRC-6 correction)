@@ -9,5 +9,5 @@ _Systems, consoles and accounts Nadia references but doesn't own. Cite, never co
 | NASRC-3 | **Fishbone Group Document Register** (Smartsheet `7352854736144260`) | Group-wide official-document register, prefix `FA` for Amfa | Not a routine part of Nadia's work; governed by the Amfa KB's own `CLAUDE.md` §6a |
 | NASRC-4 | **Fishbone Group KB** | Group orientation / master index | Cite, never copy |
 | NASRC-5 | **AI Workforce Hub** (Smartsheet workspace "Fishbone AI Workforce", `4946803578693507`) | Tasks & Requests (`8860839228606340`), Help & Lessons (`7780569054316420`) | Own rows only |
-| NASRC-6 | `enquiries@amfa.uk` (Gmail) | Amfa's sales enquiry mailbox | Connected; read + `create_draft`, owner-confirmed 2026-09-26 (NA-3/NA-5 resolved). Never send |
+| NASRC-6 | `enquiries@amfa.uk` (Gmail) | Amfa's sales enquiry mailbox | Not yet connected (NA-3). Once connected: `create_draft`-only |
 | NASRC-7 | `ops@fishboneconstruction.co.uk` | Peter's triage mailbox — routes Amfa enquiries into Nadia's `Raw/` | No access — Peter's alone |

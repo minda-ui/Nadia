@@ -6,14 +6,6 @@ has no single-file predecessor to migrate away from.
 
 ---
 
-**2026-09-27 — Rule F (shared-space changes are broadcast and registered) adopted.** Estate-wide rule,
-owner ruling (Minda, 2026-09-27), delivered via Alex's `Raw/`-hand-off note
-(`Raw/2026-09-27_Handoff_Rule-F-Shared-Space-Broadcast-Register.md`) per Hub `AWT-0150`. Any change to a
-shared system (a Hub Smartsheet, a shared Drive structure, or any other space more than one employee
-reads from) is not finished until it is both registered on the Hub and broadcast to every employee it
-affects — being within one's own authority to make the change is never grounds to skip either half.
-`Charter-Rules.md` §1 rewritten to add Rule F next to Rules A–D. See `Outputs/change-log-2026-09-27-rule-f-adopted.md`.
-
 **2026-09-26 — `enquiries@amfa.uk` connector corrected: connected, read + `create_draft`.** Session
 found `CHARTER.md`/`open-issues.md` (NA-3) claiming the mailbox was "not yet connected,
 `create_draft`-only" while the Amfa KB's `Wiki/Processes/enquiry-to-order-pipeline.md` claimed a
