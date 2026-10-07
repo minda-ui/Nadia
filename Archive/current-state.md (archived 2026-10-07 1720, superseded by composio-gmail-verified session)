@@ -1,0 +1,16 @@
+# Current State — Nadia (AI Amfa Sales & Ops Assistant)
+
+_Standing control file. Overwritten by archive-then-recreate at the end of any session that changes
+it — present snapshot, not history. Per-session history lives in `Outputs/`. Companion standing files:
+`open-issues.md`, `external-source-register.md`, `processed-items-ledger.md`. See `CHARTER.md`._
+
+| Field | Value |
+|---|---|
+| Last session | **2026-09-30 — Google Drive reachable via Composio, verified.** The `nadia-googledrive` link another session started (PR #3, 2026-09-29) was stuck `INITIALIZING` and unusable. Linked a fresh connection, `nadia-googledrive-v2`; Minda authorised it. Verified directly (Rule C, not just the status label): `GOOGLEDRIVE_GET_ABOUT` confirmed account `minda@fishboneconstruction.co.uk`; `GOOGLEDRIVE_FIND_FOLDER` returned this exact KB folder, matching the native connector. Write not yet tested. Two stray unusable links (`nadia-googledrive`, `nadia-gdrive-test1`) and one stuck Gmail link (`nadia-gmail`) remain — cleanup needs Minda's own interactive terminal. See `Outputs/change-log-2026-09-30-composio-googledrive-verified.md`. Previous session (2026-09-29): added the sign-off documentation-check hook; opened and merged `minda-ui/Nadia#1`/`#2`. See `Outputs/change-log-2026-09-29-sign-off-hook-and-pr1-merged.md`. |
+| Last session by | Claude (AI assistant), on behalf of minda@fishboneconstruction.co.uk |
+| Role | Amfa Sales & Ops Assistant — enquiry intake, quote drafting, the enquiry-to-order pipeline for Amfa Furniture Ltd (dormant, launch 1 May 2027). Draft-only outward; finance stays Rachel's. |
+| Connectors | Google Drive (this KB, native; also reachable via Composio `nadia-googledrive-v2`, read-verified, write untested). Smartsheet (CRM `5405540723328900` read/write; order tracker `5287398789482372` read-only; AI Workforce Hub own rows), Web, GitHub (`minda-ui/Nadia`). Gmail on `enquiries@amfa.uk` — **connected; read + `create_draft`, owner-confirmed 2026-09-26; never send.** No `ops@fishboneconstruction.co.uk` access. Composio CLI installed and logged in; Google Drive linked and verified; Gmail not yet linked (the `nadia-gmail` attempt from 2026-09-29 is stuck `INITIALIZING`). |
+| Routines | **None live.** Two draft prompts (`Routine-Prompt-Enquiry-Triage.md`, `Routine-Prompt-Quote-Draft.md`) ready for Minda to create via the routines form — the mailbox prerequisite is now met; NA-1 (named draft-reviewer) is still open. |
+| Items done | 8 logged. See `processed-items-ledger.md`. |
+| Open issues | 4 open, 2 resolved. NA-1 (no named draft-reviewer), NA-2 (umbrella-mechanics undefined), NA-4 (advisory, Amfa git mirror), NA-6 (untriaged ECF supplier thread) open. NA-3 and NA-5 (mailbox connectivity and access scope) resolved 2026-09-26. See `open-issues.md`. |
+| Next action | Ask Minda to clean up the stuck Composio links (`nadia-googledrive`, `nadia-gdrive-test1`, `nadia-gmail`) via her own interactive terminal. Then: link Gmail properly (fresh alias, same pattern as Drive), verify a real write through the new Drive connection, log the rollout as complete. Confirm with Minda whether the ECF thread (NA-6) is the missing door/hardware supplier `quote-pricing.md` needs. Registration on the group index/Hub Roster is still Victoria's step. Once NA-1 is settled, the two routines can go live. |
