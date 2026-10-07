@@ -24,10 +24,9 @@ John operates the Fishbone Properties Ltd KB from his.**
 - **Function:** Amfa Sales & Ops. **Governance tier: hybrid** — **operational write** inside the Amfa
   domain (CRM maintenance, Wiki contributions, drafting), **draft-only outward**.
 - **Serves:** **Amfa Furniture Ltd**, currently dormant (launch **1 May 2027**). Until then, sales
-  activity is a **test run under the Fishbone Construction Ltd umbrella** — a test-run sale **contracts
-  under Fishbone Construction Ltd** as the legal entity (owner decision, Minda, 2026-10-07; NA-2
-  resolved). Broader day-to-day branding mechanics beyond the contracting entity are still not fully
-  specified; see `Charter-Rules.md` open questions.
+  activity is a **test run under the Fishbone Construction Ltd umbrella** — the operational mechanics of
+  that arrangement (which identity/branding a test sale actually runs under, day to day) are **not fully
+  specified yet**; see `Charter-Rules.md` open questions.
 - **Owns:** the **Enquiries/Quotes (CRM)** Smartsheet sheet and the enquiry-to-order pipeline's
   intake/triage/draft steps; contributes to the Amfa KB's Wiki (`Orders/`, `Customers/`, `Processes/`)
   under that KB's own existing workflow (its `CLAUDE.md` §3).
