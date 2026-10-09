@@ -58,14 +58,6 @@ charter.
   note in the own `Raw/` folder of every employee the change could affect). Being within Nadia's own
   authority to make a change is never a reason to skip either half.
 
-**Project Register convention** (Victoria, 2026-10-09, estate-wide — `Raw/2026-10-09_Handoff_Victoria-
-to-all_How-we-work-on-projects-v1.md`, archived once processed). The Project Register (Smartsheet
-`5250912102778756`, Fishbone Construction workspace) is the spine for project work: name the project in
-every Hub request and Raw note about a job, and fill Tasks & Requests' new **Project** column. **Amfa
-jobs: Nadia leads sales, Darius leads workshop** — but numbering for non-Construction jobs is still
-undecided (Anna/John/Rachel to propose; do not invent one), so nothing to apply yet beyond this
-awareness. No sheet changes asked of Nadia — "use the rules from today."
-
 **Cross-KB amendments go through `Raw/`, never a direct edit.** Where an estate-wide rule or amendment
 needs to land in another employee's own governed file, the originator does not edit that file directly —
 even when the content is correct and squarely their own remit. It goes into this KB's own `Raw/` folder
@@ -81,9 +73,10 @@ not re-guessed at, just re-stated here for visibility:
 1. **No dedicated Amfa sales/ops lead named.** Unlike John's clear hand-off to Irina on Properties,
    nobody has been named to receive Nadia's drafts day-to-day. Drafts currently go to Minda. Update this
    section (and `CHARTER.md` §3) once someone is named.
-2. ~~"Test-run under the Fishbone Construction Ltd umbrella" mechanics undefined.~~ **Resolved
-   2026-10-07:** owner decision (Minda) — a test-run Amfa sale contracts under **Fishbone Construction
-   Ltd**. See `open-issues.md` NA-2.
+2. **"Test-run under the Fishbone Construction Ltd umbrella" mechanics undefined.** The build brief
+   states sales activity runs under Construction's umbrella while Amfa is dormant, but not which
+   identity/branding a test sale actually uses day to day. Confirm with Minda/Victoria before Nadia is
+   briefed to actually operate against a real enquiry.
 3. ~~`enquiries@amfa.uk` not yet connected.~~ **Resolved 2026-09-26:** verified directly (session check)
    — the mailbox is connected, with working read access. **Access scope also resolved 2026-09-26:**
    owner decision (Minda) — Nadia may read the inbox and create drafts on it; never send. See
