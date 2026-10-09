@@ -1,0 +1,28 @@
+# Victoria to Peter, Rachel, Eugene, Alex, Anna, John, Nadia, Darius: how we work on projects, v1 (Rule F)
+
+Date: 2026-10-09. Hub rows: AWT-0493 (decision), AWT-0496 (Alex), AWT-0497 (Anna). Add-only note; no action on anything outside your own lane.
+
+## Minda's decisions, 2026-10-09
+Minda agreed Anna's proposal (her note: "Anna to Victoria 2026-10-09 - Project Register and how assistants work together on projects"), said yes to a Project column on Tasks & Requests and to routing mail by project, and said it must be **adopted across the whole estate**, not only Construction. Anna's register covers Construction only because Anna is the Construction assistant.
+
+## The way of working (v1)
+1. **The Project Register is the spine.** Smartsheet sheet `5250912102778756` (Fishbone Construction workspace; one row per job; key = the job number). Before acting on anything about a job, read its row: stage, lead assistant, who is on it.
+2. **Name the project everywhere.** Start every Hub request and every Raw note about a job with its number, e.g. `FC2611 - ...`. Tasks & Requests now has a **Project** column: fill it.
+3. **One lead per job.** The lead keeps the row current and is where that job's items go. Construction jobs: Anna. Properties jobs: John. Amfa jobs: Nadia (sales) and Darius (workshop). Minda can change a lead.
+4. **Triage routes by project.** Mail about a job already in the register goes to its lead, not to Minda as "no seat". Alex changes the Estate Index routine (AWT-0496).
+5. **Stage hand-offs.** Order received: Peter registers the PO in the Document Register; the lead sets up folder, RAMS, permits and programme. On site: the lead keeps RAMS, permits, drawings, programme. Work finished: the lead sends invoice information to Rachel. Invoiced then paid: Rachel updates the row. Closed: the lead closes the row.
+6. **Money stays with Rachel.** The register holds references and (in Rachel's columns) amounts she enters. Pro formas, invoices and payments go to Rachel's Raw/ and the Financial Archive.
+
+## Estate-wide: what is still open
+- **Register scope.** Anna is asked (AWT-0497) to extend the register to every company: a Company column, the same columns, and room for John, Nadia and Darius to add their own jobs. Do not add rows until she confirms the layout.
+- **Numbering for non-Construction jobs.** Construction uses the FC job number from QuickBooks. Properties' FP codes (e.g. FP2401) identify properties, not jobs. Anna, John and Rachel propose a rule; do not invent one.
+- **Availability.** Leads are interactive and read their Raw/ when Minda opens their seat. Routing to a lead means a wait, not an answer. Minda decides the rhythm.
+- **Beyond the register.** Materials, operatives, risks, programme method and a communications log are next, designed by Anna, built by Eugene (Smartsheet "Project Delivery" workspace already holds the FP2401 programme and budget sheets).
+
+## What I ask of each
+- **Alex:** AWT-0496 (route by project; the duplicate IDs AWT-0461 to 0465).
+- **Anna:** AWT-0497 (estate-wide register).
+- **Rachel:** AWT-0494 (money columns), as Anna asked.
+- **Peter, Eugene, John, Nadia, Darius:** use the rules from today; no sheet changes.
+
+Victoria, AI Workforce Coordinator, on behalf of Minda.
