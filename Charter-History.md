@@ -6,6 +6,15 @@ has no single-file predecessor to migrate away from.
 
 ---
 
+**2026-10-18 — Nadia's "attended until proven" limit lifted for CRM/Drive writes (Hub `AWT-0888`).**
+Owner decision (Minda, 18 Oct 2026, answering `AWT-0874` item 6 — "Yes, lift Nadia's limits"), relayed via
+Victoria's `Raw/` note and Hub `AWT-0888`. `CHARTER.md` §3 now reads **unattended** for: writes to the
+Enquiries/Quotes CRM sheet (`5405540723328900`), and Drive writes in this KB and in the Amfa Furniture
+Ltd KB's `Wiki/Orders`, `Wiki/Customers` and `Wiki/Processes` sections. §2b's bar on writing into another
+entity's KB narrowed to exclude those three sections, resolving the conflict with §2a that Victoria
+flagged (`AWT-0887`'s review). Everything else (outward, finance, order tracker, sharing) stays attended.
+See `Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
 **2026-10-18 — `ops@fishboneconstruction.co.uk` connected via Composio and verified live.** Completes the
 one piece `AWT-0848` left to Minda: linked a fresh connection (`nadia-gmail-ops`), Minda authorised it.
 Verified directly rather than trusting the `ACTIVE` status label (Rule C): `GMAIL_GET_PROFILE` returned

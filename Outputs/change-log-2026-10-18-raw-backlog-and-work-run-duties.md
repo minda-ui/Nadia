@@ -62,3 +62,42 @@ send); `Charter-History.md` logged; `AWT-0848` updated with the confirmation, no
 **Files:** `CHARTER.md`, `Charter-History.md`, `current-state.md`, `processed-items-ledger.md` (this KB,
 all archived-then-recreated); Composio (`nadia-gmail-ops` linked; no email read, drafted, or sent); Hub
 `AWT-0848` (Response updated).
+
+---
+
+## Addendum 2, same day — three new Hub rows: limits lifted, order hand-off reviewed, stale line closed
+
+A Hub check turned up three new Open rows.
+
+**`AWT-0888` — Minda's limits-lifted decision** ("Yes, lift Nadia's limits," answering `AWT-0874` item
+6). `CHARTER.md` §3 now reads **unattended** for writes to the Enquiries/Quotes CRM sheet
+(`5405540723328900`) and Drive writes in this KB and the Amfa KB's `Wiki/Orders`, `Wiki/Customers` and
+`Wiki/Processes` sections. §2b's bar on writing into another entity's KB narrowed to exclude those three
+sections — resolves the §2a/§2b conflict Victoria's review (`AWT-0887`) had flagged. Everything outward,
+financial, order-tracker, or sharing-related stays attended. §2a's Wiki-maintenance bullet also now names
+`Processes/` explicitly.
+
+**`AWT-0875` — Darius's draft Amfa order hand-off, reviewed.** Read the draft in full and answered in
+Darius's own `Raw/`. Confirmed steps 5 and 8 as written. Amended step 4: dropped "customer first name"
+from what reaches the Hub row — the charter's own personal-data rule bars customer PII on any
+wider-shared surface, and a first name counts; job ref alone is enough to key the hand-off, anything more
+specific stays in the Raw note only. Recommended adding a "Handed to workshop" CRM Stage (the draft's
+To-confirm item 1) but didn't change the sheet unilaterally — waiting on Darius/Victoria to agree the
+label. Items 2–4 (job-number format, deposit amounts, materials-spend approval) are Minda/Anna/Rachel's
+calls, not guessed.
+
+**`AWT-0887` — stale "No ops@ access" line, closed.** Already fixed in this file's Addendum 1 (the
+`ops@` connector session) — this just points the row at that fix.
+
+**Done:** Hub `AWT-0888`, `AWT-0875`, `AWT-0887` all closed (Status → Done). `processed-items-ledger.md`
+rows 17–18 added; `current-state.md` updated. Four processed `Raw/` notes archived (Darius's hand-off
+draft note, and Victoria's `ops-attached`, `limits-lifted` and `stale-ops-line` notes).
+
+**Not done:** `AWT-0883` (Drive write probe) left untouched — it's explicitly scoped to Nadia's first
+scheduled work run on Mon 19 Oct, not this interactive session. The CRM Stage picklist itself not yet
+changed — waiting on Darius/Victoria's answer on the label.
+
+**Files:** `CHARTER.md`, `Charter-History.md`, `current-state.md`, `processed-items-ledger.md` (this KB,
+all archived-then-recreated); Darius's KB `Raw/` (one note added); `Raw/` (Drive — four notes archived);
+Hub `AWT-0888`, `AWT-0875`, `AWT-0887` (Status → Done). No write to `AWT-0883`, `AWT-0871`, or the CRM
+sheet's Stage picklist.
