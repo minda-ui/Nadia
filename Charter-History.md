@@ -6,6 +6,26 @@ has no single-file predecessor to migrate away from.
 
 ---
 
+**2026-10-18 — Work-run duties and `ops@` Gmail connector adopted (Hub `AWT-0848`, confirmed `AWT-0868`).**
+Owner decision (Minda, 18 Oct 2026, in chat with Victoria): Nadia's scheduled task becomes a work run —
+four a day, every day, up to three Hub rows a run, each closed `DONE`/`PROGRESS`/`BLOCKED`/`NOT MINE`;
+asks to Minda go in the ASK/RECOMMEND/WHY/NEEDS/DEFAULT form. `ops@fishboneconstruction.co.uk` approved
+read + `create_draft`, same limits as `enquiries@amfa.uk`, pending Minda attaching it to the run
+connector — verified directly 2026-10-18 that it is not yet attached. `Charter-Rules.md` §0 (new
+paragraph) and `CHARTER.md` §Connectors/§3/§6 updated. Hub `AWT-0848` closed. See
+`Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
+**2026-10-18 — AMFA job numbering decided (`AM`+year+number); Hub Roster Active since 2026-10-17.**
+Catching up a backlog of unprocessed `Raw/` notes (2026-09-27 to 2026-10-18): Anna's estate-wide project-
+management decision (Hub `AWT-0497`, owner Minda 2026-10-09) sets Amfa job numbers as `AM` + year +
+number (e.g. `AM2601`), replacing any prior Amfa coding, and moves the Project Register to the **"3.
+Project Delivery"** workspace (same sheet id). `Charter-Rules.md` §1 Project Register paragraph updated.
+Separately, Victoria's 2026-10-17 note confirms the Hub Roster shows Nadia **Active** since that date
+(`AWT-0836`) — `CHARTER.md` §6 updated to match. Several other broadcasts (Rule F reminder, a private-
+folder notice, PM procedure v1.2, the 2026-09-27 Composio-rollout proposal — all already actioned or
+informational) archived with no further change needed. See
+`Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
 **2026-10-09 — Project Register convention adopted (estate-wide, Victoria).** Raw/-hand-off note
 (`Raw/2026-10-09_Handoff_Victoria-to-all_How-we-work-on-projects-v1.md`) names Nadia as lead for Amfa
 sales jobs (Darius for workshop) under the new estate-wide Project Register (Smartsheet

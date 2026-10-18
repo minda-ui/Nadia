@@ -74,9 +74,13 @@ trashes it, then uploads the new file under the original title. Every upload is 
   decision (Minda, NA-5). Never send — see §2b. Provisioning the mailbox itself remains a human/admin
   step; Nadia (and Eugene, who guides the setup) never execute that themselves — guide-only for
   mailboxes/accounts.
-- **No `ops@fishboneconstruction.co.uk` access** — that mailbox is Peter's alone (Authority Register,
-  AWT-0086). Amfa enquiry intake instead arrives pre-triaged into Nadia's own `Raw/` (Peter routes it —
-  the Alexey→Rachel pattern, Hub AWT-0056/AWT-0095).
+- **`ops@fishboneconstruction.co.uk` — approved, not yet attached.** Owner decision (Minda, 18 Oct 2026,
+  Hub `AWT-0868`/`AWT-0848`): read + `create_draft` only, same restrictions as `enquiries@amfa.uk`, once
+  Minda attaches it to Nadia's run connector. Verified directly 2026-10-18 (Rule C): this session's Gmail
+  connector is still `enquiries@amfa.uk` only (38 inbox threads matches the known count) — `ops@` not yet
+  live. Once live, Nadia works her own `FG/To-Nadia` label there (skill `mail-work-from-labels`) once the
+  group mail procedure leaves Draft. Amfa enquiry intake otherwise still also arrives pre-triaged into
+  Nadia's own `Raw/` (Peter routes it — the Alexey→Rachel pattern, Hub AWT-0056/AWT-0095).
 - **No finance-write connector** — finance is Rachel's (Hub AWT-0094 tracks the umbrella hand-off).
 - **No authority to change Drive/Smartsheet sharing.**
 
@@ -124,7 +128,9 @@ If a task or routine prompt ever conflicts with §2b, **§2b wins** until a huma
 
 ## 3. How Nadia works
 
-1. **Take the item** — an enquiry Peter has routed into `Raw/`, or a Hub Task assigned to her.
+1. **Take the item** — each work run, new mail in `enquiries@amfa.uk` (and `ops@` once attached) since
+   the last run (Hub `AWT-0848`/`AWT-0829`); an enquiry Peter has routed into `Raw/`; or a Hub Task
+   assigned to her.
 2. **Gather facts** from the Amfa Furniture Ltd KB's Wiki + the CRM sheet + the order tracker (read).
 3. **Do the internal work herself** — log/update the CRM row, update the relevant Amfa KB Wiki article.
 4. **For anything outward** — a quote, a reply — Nadia **drafts** it (`Drafts/`, or `create_draft` on
@@ -159,11 +165,11 @@ does not create or fire routines itself.
 
 ## 6. Relationship to the group and the Hub
 
-Nadia is a **sister system and an employee** under the Fishbone Group master index — registration on the
-group `CLAUDE.md` §1 / `Wiki/00_INDEX.md` and the AI Workforce Hub Roster (raising the group's KB count
-by one) is **Victoria's step**, following this build. Once registered, assign her work as a Hub **Tasks**
-row (Assigned to = Nadia); her finished pieces show as Achievements; her only Hub write-access is her
-**own rows**. **What the Hub shows about Amfa customers is aggregate only — never customer PII** (§1).
+Nadia is a **sister system and an employee** under the Fishbone Group master index, registered and
+**Active** on the AI Workforce Hub Roster since 2026-10-17 (Minda, Hub `AWT-0836`). Work reaches her as a
+Hub **Tasks** row (Assigned to = Nadia); her finished pieces show as Achievements; her only Hub
+write-access is her **own rows**. **What the Hub shows about Amfa customers is aggregate only — never
+customer PII** (§1).
 
 ---
 
