@@ -44,3 +44,21 @@ session had actually worked through Drive's own inbox since then.
 `processed-items-ledger.md` (this KB, all archived-then-recreated); `Raw/` (Drive — 10 notes archived);
 Hub `AWT-0848` (Status → Done). No write to `AWT-0829`, `AWT-0831`, `AWT-0836`, or `AWT-0497` — those
 stay their own owners' rows.
+
+---
+
+## Addendum, later the same day — `ops@` connected via Composio
+
+Asked to connect `ops@fishboneconstruction.co.uk` via Composio — the one piece `AWT-0848` left to Minda.
+Linked a fresh connection, `nadia-gmail-ops`; Minda authorised it. Verified directly rather than trusting
+the `ACTIVE` status label (Rule C): `GMAIL_GET_PROFILE` returned `ops@fishboneconstruction.co.uk` — the
+correct mailbox — 1963 messages / 1449 threads. `create_draft` not test-written (no genuine draft needed
+yet); send/delete/reply/forward not attempted.
+
+**Done:** `CHARTER.md` §Connectors and §2b updated (`ops@` now live, read + `create_draft` only, never
+send); `Charter-History.md` logged; `AWT-0848` updated with the confirmation, no new blocker.
+`processed-items-ledger.md` row 16 added; `current-state.md` updated.
+
+**Files:** `CHARTER.md`, `Charter-History.md`, `current-state.md`, `processed-items-ledger.md` (this KB,
+all archived-then-recreated); Composio (`nadia-gmail-ops` linked; no email read, drafted, or sent); Hub
+`AWT-0848` (Response updated).

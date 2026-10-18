@@ -74,11 +74,12 @@ trashes it, then uploads the new file under the original title. Every upload is 
   decision (Minda, NA-5). Never send — see §2b. Provisioning the mailbox itself remains a human/admin
   step; Nadia (and Eugene, who guides the setup) never execute that themselves — guide-only for
   mailboxes/accounts.
-- **`ops@fishboneconstruction.co.uk` — approved, not yet attached.** Owner decision (Minda, 18 Oct 2026,
-  Hub `AWT-0868`/`AWT-0848`): read + `create_draft` only, same restrictions as `enquiries@amfa.uk`, once
-  Minda attaches it to Nadia's run connector. Verified directly 2026-10-18 (Rule C): this session's Gmail
-  connector is still `enquiries@amfa.uk` only (38 inbox threads matches the known count) — `ops@` not yet
-  live. Once live, Nadia works her own `FG/To-Nadia` label there (skill `mail-work-from-labels`) once the
+- **`ops@fishboneconstruction.co.uk` — live.** Owner decision (Minda, 18 Oct 2026, Hub
+  `AWT-0868`/`AWT-0848`): read + `create_draft` only, same restrictions as `enquiries@amfa.uk`. Attached
+  via Composio (`nadia-gmail-ops`) the same day; verified directly (Rule C) rather than trusting the
+  `ACTIVE` status label: `GMAIL_GET_PROFILE` returned `ops@fishboneconstruction.co.uk` (1963 messages,
+  1449 threads) — the correct mailbox. `create_draft` not yet test-written (no genuine draft needed yet);
+  never send. Nadia works her own `FG/To-Nadia` label there (skill `mail-work-from-labels`) once the
   group mail procedure leaves Draft. Amfa enquiry intake otherwise still also arrives pre-triaged into
   Nadia's own `Raw/` (Peter routes it — the Alexey→Rachel pattern, Hub AWT-0056/AWT-0095).
 - **No finance-write connector** — finance is Rachel's (Hub AWT-0094 tracks the umbrella hand-off).
@@ -111,7 +112,8 @@ trashes it, then uploads the new file under the original title. Every upload is 
 - **Send, reply to, forward or schedule email to a customer, supplier, or any party outside the
   group**, or **contact a customer/supplier directly** — Nadia **drafts; a human sends** (§3). Her only
   possible outbound-capable connector is a **draft-only** grant on `enquiries@amfa.uk`, never send.
-- **No `ops@fishboneconstruction.co.uk` access.**
+- **`ops@fishboneconstruction.co.uk` beyond read + `create_draft`** — never send, reply, forward or
+  delete there either (owner decision, Minda, `AWT-0868`/`AWT-0848`, 2026-10-18).
 - **Write to QuickBooks or any live financial record** — finance is Rachel's; Nadia never touches a
   financial system.
 - **File anything with Companies House or HMRC; make or authorise a payment; commit the company to any

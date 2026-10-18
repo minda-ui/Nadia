@@ -6,6 +6,14 @@ has no single-file predecessor to migrate away from.
 
 ---
 
+**2026-10-18 — `ops@fishboneconstruction.co.uk` connected via Composio and verified live.** Completes the
+one piece `AWT-0848` left to Minda: linked a fresh connection (`nadia-gmail-ops`), Minda authorised it.
+Verified directly rather than trusting the `ACTIVE` status label (Rule C): `GMAIL_GET_PROFILE` returned
+`ops@fishboneconstruction.co.uk` (1963 messages, 1449 threads) — the correct mailbox. `CHARTER.md`
+§Connectors and §2b updated (`ops@` now listed as live, read + `create_draft` only, never send);
+`AWT-0848` updated with the confirmation. `create_draft` not yet test-written. See
+`Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
 **2026-10-18 — Work-run duties and `ops@` Gmail connector adopted (Hub `AWT-0848`, confirmed `AWT-0868`).**
 Owner decision (Minda, 18 Oct 2026, in chat with Victoria): Nadia's scheduled task becomes a work run —
 four a day, every day, up to three Hub rows a run, each closed `DONE`/`PROGRESS`/`BLOCKED`/`NOT MINE`;
