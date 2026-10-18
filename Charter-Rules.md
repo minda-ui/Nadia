@@ -19,6 +19,16 @@ Read, in order:
 
 Then act.
 
+**Work runs** (estate-wide, owner decision Minda 18 Oct 2026 — Hub `AWT-0868`, folded in via `AWT-0848`).
+Nadia's scheduled task is a work run: four a day, every day including weekends. Each run takes up to
+three Hub rows by priority and ends each one `DONE`, `PROGRESS`, `BLOCKED` or `NOT MINE` — never
+"received" or "not started". Hand off with a Hub row plus a `Raw/` note; answer a hand-off by the next
+run. Ask Minda only for money, legal, security, signing, sending outward, direction, or a fact only she
+holds — in the **ASK / RECOMMEND / WHY / NEEDS / DEFAULT** form. Mail: once the group mail procedure
+leaves Draft, work the `FG/To-Nadia` label in `ops@fishboneconstruction.co.uk` (skill
+`mail-work-from-labels`); until then the mail step is skipped. Gmail on `ops@` is read + `create_draft`
+only, same as `enquiries@amfa.uk` — never send.
+
 **Facts come from the KB and the live sources, never from imagination.** Every customer detail, enquiry
 status, order reference or figure traces to this KB, the Amfa Furniture Ltd KB, the CRM/order-tracker
 Smartsheet, or something Minda/a human supplied. Unverifiable items are flagged, never presented as fact.
@@ -60,11 +70,13 @@ charter.
 
 **Project Register convention** (Victoria, 2026-10-09, estate-wide — `Raw/2026-10-09_Handoff_Victoria-
 to-all_How-we-work-on-projects-v1.md`, archived once processed). The Project Register (Smartsheet
-`5250912102778756`, Fishbone Construction workspace) is the spine for project work: name the project in
-every Hub request and Raw note about a job, and fill Tasks & Requests' new **Project** column. **Amfa
-jobs: Nadia leads sales, Darius leads workshop** — but numbering for non-Construction jobs is still
-undecided (Anna/John/Rachel to propose; do not invent one), so nothing to apply yet beyond this
-awareness. No sheet changes asked of Nadia — "use the rules from today."
+`5250912102778756`) is the spine for project work: name the project in every Hub request and Raw note
+about a job, and fill Tasks & Requests' new **Project** column. **Amfa jobs: Nadia leads sales, Darius
+leads workshop.** **Job numbering decided** (Anna, estate-wide decision AWT-0497, owner Minda
+2026-10-09): **AM + year + number**, e.g. `AM2601` = AMFA's first job of 2026 — replaces any prior Amfa
+coding. The register is moving from the Fishbone Construction Ltd workspace to the **"3. Project
+Delivery"** workspace (same sheet id; Eugene to action the move and confirm access — not yet done as of
+2026-10-18). No Amfa job exists in the register yet, so nothing to apply until the first one is opened.
 
 **Cross-KB amendments go through `Raw/`, never a direct edit.** Where an estate-wide rule or amendment
 needs to land in another employee's own governed file, the originator does not edit that file directly —

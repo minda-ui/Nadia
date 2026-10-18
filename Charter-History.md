@@ -6,6 +6,43 @@ has no single-file predecessor to migrate away from.
 
 ---
 
+**2026-10-18 — Nadia's "attended until proven" limit lifted for CRM/Drive writes (Hub `AWT-0888`).**
+Owner decision (Minda, 18 Oct 2026, answering `AWT-0874` item 6 — "Yes, lift Nadia's limits"), relayed via
+Victoria's `Raw/` note and Hub `AWT-0888`. `CHARTER.md` §3 now reads **unattended** for: writes to the
+Enquiries/Quotes CRM sheet (`5405540723328900`), and Drive writes in this KB and in the Amfa Furniture
+Ltd KB's `Wiki/Orders`, `Wiki/Customers` and `Wiki/Processes` sections. §2b's bar on writing into another
+entity's KB narrowed to exclude those three sections, resolving the conflict with §2a that Victoria
+flagged (`AWT-0887`'s review). Everything else (outward, finance, order tracker, sharing) stays attended.
+See `Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
+**2026-10-18 — `ops@fishboneconstruction.co.uk` connected via Composio and verified live.** Completes the
+one piece `AWT-0848` left to Minda: linked a fresh connection (`nadia-gmail-ops`), Minda authorised it.
+Verified directly rather than trusting the `ACTIVE` status label (Rule C): `GMAIL_GET_PROFILE` returned
+`ops@fishboneconstruction.co.uk` (1963 messages, 1449 threads) — the correct mailbox. `CHARTER.md`
+§Connectors and §2b updated (`ops@` now listed as live, read + `create_draft` only, never send);
+`AWT-0848` updated with the confirmation. `create_draft` not yet test-written. See
+`Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
+**2026-10-18 — Work-run duties and `ops@` Gmail connector adopted (Hub `AWT-0848`, confirmed `AWT-0868`).**
+Owner decision (Minda, 18 Oct 2026, in chat with Victoria): Nadia's scheduled task becomes a work run —
+four a day, every day, up to three Hub rows a run, each closed `DONE`/`PROGRESS`/`BLOCKED`/`NOT MINE`;
+asks to Minda go in the ASK/RECOMMEND/WHY/NEEDS/DEFAULT form. `ops@fishboneconstruction.co.uk` approved
+read + `create_draft`, same limits as `enquiries@amfa.uk`, pending Minda attaching it to the run
+connector — verified directly 2026-10-18 that it is not yet attached. `Charter-Rules.md` §0 (new
+paragraph) and `CHARTER.md` §Connectors/§3/§6 updated. Hub `AWT-0848` closed. See
+`Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
+**2026-10-18 — AMFA job numbering decided (`AM`+year+number); Hub Roster Active since 2026-10-17.**
+Catching up a backlog of unprocessed `Raw/` notes (2026-09-27 to 2026-10-18): Anna's estate-wide project-
+management decision (Hub `AWT-0497`, owner Minda 2026-10-09) sets Amfa job numbers as `AM` + year +
+number (e.g. `AM2601`), replacing any prior Amfa coding, and moves the Project Register to the **"3.
+Project Delivery"** workspace (same sheet id). `Charter-Rules.md` §1 Project Register paragraph updated.
+Separately, Victoria's 2026-10-17 note confirms the Hub Roster shows Nadia **Active** since that date
+(`AWT-0836`) — `CHARTER.md` §6 updated to match. Several other broadcasts (Rule F reminder, a private-
+folder notice, PM procedure v1.2, the 2026-09-27 Composio-rollout proposal — all already actioned or
+informational) archived with no further change needed. See
+`Outputs/change-log-2026-10-18-raw-backlog-and-work-run-duties.md`.
+
 **2026-10-09 — Project Register convention adopted (estate-wide, Victoria).** Raw/-hand-off note
 (`Raw/2026-10-09_Handoff_Victoria-to-all_How-we-work-on-projects-v1.md`) names Nadia as lead for Amfa
 sales jobs (Darius for workshop) under the new estate-wide Project Register (Smartsheet
