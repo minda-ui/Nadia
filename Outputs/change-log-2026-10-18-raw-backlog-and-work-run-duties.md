@@ -101,3 +101,36 @@ changed — waiting on Darius/Victoria's answer on the label.
 all archived-then-recreated); Darius's KB `Raw/` (one note added); `Raw/` (Drive — four notes archived);
 Hub `AWT-0888`, `AWT-0875`, `AWT-0887` (Status → Done). No write to `AWT-0883`, `AWT-0871`, or the CRM
 sheet's Stage picklist.
+
+---
+
+## Addendum 3, same day — permission-prompt fix, flagged to Victoria, PR #6 opened and merged
+
+Asked why Drive/Smartsheet tool calls kept prompting "Allow Once." Found `.claude/settings.json` had
+allow-rules only for the Composio CLI, none for the native Drive/Smartsheet MCP tools this KB's routine
+work actually uses — harmless attended (click through), fatal for an unattended scheduled run (nothing
+there to click). Added allow-rules for those tools, plus an explicit deny on
+`mcp__Google_Drive__trash_file` matching the charter's own archive-instead-of-trash rule — confirmed
+live immediately in-session (the deny took effect on the very next call).
+
+Asked to report the gap to Victoria: dropped a hand-off note in her own `Raw/`
+(`2026-10-18_Nadia-to-Victoria_permission-prompt-fix-not-merged-AWT-0895.md`) and raised Hub `AWT-0895`
+(High) — the fix was only on the working branch, not merged to `main`, which would have left the Mon
+19 Oct 08:05 UK first scheduled work run (and its own `AWT-0883` Drive-write probe) hitting the old,
+unpatched permissions.
+
+Asked to open a PR: opened `minda-ui/Nadia#6` (6 commits covering the whole day — Raw/ backlog,
+work-run duties, `ops@` connector, `AWT-0888`, `AWT-0875`, the permission-prompt fix) and linked it on
+`AWT-0895`. Asked to merge it: found it already merged (by `minda-ui`, merge commit `0ea8dc4`) before
+the merge call ran — confirmed directly via `origin/main` rather than trusting the PR's own merged
+label (Rule C). Closed `AWT-0895`: the fix is live on `main` well ahead of Monday's run.
+
+**Done:** `.claude/settings.json` updated (git mirror only, no Drive sync — matches the existing
+`.claude/` convention); Victoria's KB `Raw/` (one note added); PR `minda-ui/Nadia#6` (opened, merged to
+`main`); `processed-items-ledger.md` rows 19–20 added; `current-state.md` updated; Hub `AWT-0895`
+(Status → Done). Designated branch restarted from the now-merged `main` and the final log commit
+pushed.
+
+**Files:** `.claude/settings.json` (git mirror); `Raw-outbound/` (this KB, local staged copy);
+Victoria's KB `Raw/` (one note added); `current-state.md`, `processed-items-ledger.md` (this KB,
+archived-then-recreated); PR `minda-ui/Nadia#6`; Hub `AWT-0895` (new, closed same session).
